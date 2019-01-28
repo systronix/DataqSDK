@@ -8,27 +8,29 @@ The intent is to adapt [this old Dataq Linux beta code from 2007](http://support
 The Dataq line of [starter kits](https://www.dataq.com/data-acquisition/starter-kits/) offers amazing analog front end value. In particular, the DI-1120 and DI-4208 were chosen for their specific features and price points.
 
 ### DI-1120
-+ Four armored analog differential inputs
-+ 14-bit analog-to-digital resolution
++ Four armored analog differential inputs, 795 Kohm input impedance
++ 12- to 14- bit analog-to-digital resolution, depending on scan rate
 + 160 kHz sample throughput rate, so 40 KHz per channel if all four channels are active
 + Programmable range per channel: ±2, 5, 10, 20, 50, 100 V full scale
 + Up to 120 V rms without damage
++ ±20 V dc or peak ac common mode input voltage
 + 80 dB common mode rejection
 + Supports ChannelStretch™ multi-unit synchronization of "similar" devices, including the DI-4208
 + Adaptable low-pass filter per channel, corner frequency set as a function of sampling rate
-+ Seven digital ports
++ Seven digital ports, 25V max voltage. 4.7 Kohm pullup
 + $178 (2019 Jan)
 
 ### DI-4208
-+ Eight armored analog differential inputs
-+ 16-bit analog-to-digital resolution
++ Eight armored analog differential inputs, 795 Kohm input impedance
++ 12- to 16- bit analog-to-digital resolution, depending on scan rate
 + 160 kHz sample throughput rate, so 20 KHz per channel if all eight channels are active
 + Programmable ranges: ±2, ±5, ±10, ±20, ±50, ±100 V full scale
 + Up to 120 V rms without damage
++ ±20 V dc or peak ac common mode input voltage
 + 50 dB common mode rejection
 + Supports ChannelStretch™ multi-unit synchronization of "similar" devices, including the DI-1120
 + Adaptable low-pass filter per channel, corner frequency set as a function of sampling rate
-+ Seven digital ports
++ Seven digital ports, 25V max voltage. 4.7 Kohm pullup
 + $299 (2019 Jan)
 
 ## Why Linux?
