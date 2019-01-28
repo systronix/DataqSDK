@@ -2,7 +2,7 @@
 Git repo for Linux SDK 1.1 from Dataq
 
 ## Purpose
-The intent is to adapt [this old Dataq Linux beta code from 2007](http://support.dataq.com/viewforum.php?f=32), written for the DI-154 and DI-194 (long [obsolete](https://www.dataq.com/resources/obsolete/products/)) to the current model [DI-1120](https://www.dataq.com/products/di-1120/) which replaces the DI-155, and the [DI-4208](https://www.dataq.com/products/di-4208/).
+The intent is to adapt [this old Dataq Linux beta code from 2007](http://support.dataq.com/viewforum.php?f=32), identified as version 1.0 on the web page but 1.1 in the archive file, written for the DI-154 and DI-194 (long [obsolete](https://www.dataq.com/resources/obsolete/products/)) to the current model [DI-1120](https://www.dataq.com/products/di-1120/) which replaces the DI-155, and the [DI-4208](https://www.dataq.com/products/di-4208/). Since the DI-1120 replaces the DI-155, and it is only one count away from the DI-154, adapting this old code might be straightforward.
 
 ## Why Dataq?
 The Dataq line of [starter kits](https://www.dataq.com/data-acquisition/starter-kits/) offers amazing analog front end value. In particular, the DI-1120 and DI-4208 were chosen for their specific features and price points.
